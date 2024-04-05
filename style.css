@@ -1,0 +1,26 @@
+body {
+    margin: 0%;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    background: url("https://t4.ftcdn.net/jpg/02/56/10/07/360_F_256100731_qNLp6MQ3FjYtA3Freu9epjhsAj2cwU9c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 50px;
+}
+
+section {
+
+    margin-top: 30px;
+}
+
+#title {
+    font-size: 50px;
+    margin: 30px;
+    border: none;
+}
